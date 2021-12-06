@@ -1,0 +1,2 @@
+# muistio
+Nörttikerhon muistio
